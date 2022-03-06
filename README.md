@@ -1,11 +1,3 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Code-Shinki&show_icons=true&count_private=true&theme=graywhite" height="165px" />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Code-Shinki&show_icons=true&count_private=true&theme=graywhite" width="60%" height="165px" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Shinki&layout=compact&theme=graywhite" width="35%" height="165px" />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Shinki&layout=compact&theme=graywhite" />
-</a>
-
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-Shinki&theme=default" height="220px" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Code-Shinki&theme=default" width="100%" height="220px" />
